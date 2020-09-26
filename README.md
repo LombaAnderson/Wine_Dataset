@@ -1,1 +1,1 @@
-Algoritmo de Machine Learning que faz análise completa dos dados de uma lista de classificação de vinhos. Foi utilizado o Jupiter Notebook e linguagem Python para fazer essa pequena amostra de análise.
+Algoritmo de Machine Learning que faz análise completa dos dados de uma lista de classificação de vinhos. Foram usados o Jupiter Notebook e a linguagem Python para fazer essa pequena amostra de análise.
